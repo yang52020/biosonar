@@ -1,0 +1,3 @@
+gammatonebank.m is a function to generate gammatone filters
+signalprocessing.m process the data with filters
+simulation.m simulates the bat inspired sonar localization 
